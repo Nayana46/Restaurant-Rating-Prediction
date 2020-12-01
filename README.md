@@ -1,6 +1,8 @@
 # We-R
 Predicting Restaurant Ratings using Machine Learning Algorithms
+
 Dataset link : https://www.kaggle.com/himanshupoddar/zomato-bangalore-restaurants
+
 Report in IEEE Format : https://drive.google.com/file/d/1VLq1Svyedk-prm9M4bHYtJ1wny0OSkua/view?usp=sharing
 
 Nowadays, starting a restaurant project in a given location requires a large investment by investors  and effort. To start a new restaurant, you need funding from investors, who look at a lot of things before deciding to fund your restaurant. A few of those criteria are location, menu, rating of similar restaurants, etc. 
